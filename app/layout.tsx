@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     siteName: "Sahil Chahal Portfolio",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/og-image.png",
         width: 1200,
         height: 630,
         alt: "Sahil Chahal - Senior Full Stack Developer",
@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     title: "Sahil Chahal - Senior Full Stack Developer | Node.js & NestJS Expert",
     description:
       "Senior Full Stack Developer specializing in Node.js, NestJS, Laravel, Next.js, and AWS cloud services.",
-    images: ["/og-image.jpg"],
+    images: ["/og-image.png"],
     creator: "@sahilchahal",
   },
   robots: {
