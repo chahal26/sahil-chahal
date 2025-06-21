@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     "Matrix Marketers",
     "Webroot Technologies",
   ],
-  authors: [{ name: "Sahil Chahal", url: "https://sahilchahal.dev" }],
+  authors: [{ name: "Sahil Chahal", url: "https://sahil-chahal.vercel.app" }],
   creator: "Sahil Chahal",
   publisher: "Sahil Chahal",
   formatDetection: {
@@ -34,14 +34,14 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://sahilchahal.dev"),
+  metadataBase: new URL("https://sahil-chahal.vercel.app"),
   alternates: {
     canonical: "/",
   },
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://sahilchahal.dev",
+    url: "https://sahil-chahal.vercel.app",
     title: "Sahil Chahal - Senior Full Stack Developer | Node.js & NestJS Expert",
     description:
       "Senior Full Stack Developer specializing in Node.js, NestJS, Laravel, Next.js, and AWS cloud services. Expert in building scalable web applications and cloud-native solutions.",
