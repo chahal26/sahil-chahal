@@ -32,7 +32,7 @@ export function ProjectsSection() {
     },
     {
       icon: Building,
-      title: "Web4Reality",
+      title: "Web4Realty",
       description:
         "Large-scale property management platform managing 4,500+ sites, built with Laravel and React for optimal performance and scalability.",
       tech: ["Laravel", "React", "MySQL", "Redis", "PHP", "Cypress", "PHPUnit"],

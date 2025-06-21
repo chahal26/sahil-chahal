@@ -124,9 +124,9 @@ export const resumeData: ResumeData = {
       ],
     },
     {
-      name: "Web4Reality",
+      name: "Web4Realty",
       description:
-        "Web4Reality is a comprehensive property management system that connects to over 4,000 websites, providing clients with a custom CRM to efficiently manage property listings. The platform integrates more than 15 databases and handles complex business logic across various modules.",
+        "Web4Realty is a comprehensive property management system that connects to over 4,000 websites, providing clients with a custom CRM to efficiently manage property listings. The platform integrates more than 15 databases and handles complex business logic across various modules.",
       technologies: "Laravel-Lumen, Laravel, Zend, React.js",
       highlights: [
         "Connects to over 4,000 websites with custom CRM functionality",

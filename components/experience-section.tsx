@@ -28,7 +28,7 @@ export function ExperienceSection() {
       description:
         "Developed and maintained multiple web applications using Laravel, React, and modern JavaScript frameworks. Collaborated with cross-functional teams to deliver high-quality solutions.",
       achievements: [
-        "Built Web4Reality managing 4,000+ properties",
+        "Built Web4Realty managing 4,000+ properties",
         "Developed MachineSpotter with advanced search capabilities",
         "Improved application performance by 40%",
         "Transitioned from PHP to Node.js ecosystem",
